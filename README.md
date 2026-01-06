@@ -51,6 +51,3 @@ Through this project, I gained hands-on experience with:
 - Experimenting with neural network architectures and hyperparameters
 
 ---
-
-B.Tech CSE (Artificial Intelligence)  
-CS50 AI Project
